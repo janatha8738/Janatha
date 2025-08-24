@@ -1,11 +1,11 @@
-                       Hi 👋, I'm Eranga harsha
-
-             A passionate Software engineer from Srilanka
-
-
 # Hi there 👋, I'm Janatha  
 
-- 🎓 IT student at SLIIT  
-- 💻 Interested in web & mobile development  
-- 🚀 Currently working on full-stack MERN projects  
-- 📚 Learning Kotlin & Android app development
+💻 **IT Student @ SLIIT** | 🚀 Passionate about Full-Stack Development & Mobile Apps  
+
+---
+
+### 🔥 About Me
+- 🌱 Learning **Kotlin & Android Development**
+- 💡 Interested in **MERN stack, mobile apps, and productivity tools**
+- ⚡ Fun fact: I love building apps that make life easier
+
