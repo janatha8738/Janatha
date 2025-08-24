@@ -1,1 +1,1 @@
-# Janatha
+Hi 👋, I'm Eranga harsha
